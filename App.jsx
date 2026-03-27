@@ -40,7 +40,7 @@ window.App = () => {
     );
 };
 
-// Mount the App directly since Babel processes this after DOM is parsed
+
 const rootElem = document.getElementById('root');
 if (rootElem) {
     const root = ReactDOM.createRoot(rootElem);
