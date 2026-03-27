@@ -1,4 +1,4 @@
-/* ===== VARIABLES & DESIGN SYSTEM ===== */
+
 :root {
   /* Colors */
   --c-bg: #0f1115;
@@ -107,7 +107,7 @@ input, textarea {
   outline: none;
 }
 
-/* ===== UTILITIES ===== */
+/*  UTILITIES  */
 .container {
   width: 100%;
   max-width: 1200px;
@@ -131,7 +131,7 @@ input, textarea {
   background-clip: text;
 }
 
-/* ===== COMPONENTS ===== */
+/*  COMPONENTS  */
 /* Buttons */
 .btn {
   display: inline-flex;
