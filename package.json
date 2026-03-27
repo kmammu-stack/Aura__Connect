@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/div-del/AURA-CONNECT.git"
+    "url": "git+https://github.com/kmammu-stack/Aura__Connect.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/div-del/AURA-CONNECT/issues"
+    "url": "https://github.com/kmammu-stack/Aura__Connect/issues"
   },
-  "homepage": "https://github.com/div-del/AURA-CONNECT#readme",
+  "homepage": "https://github.com/kmammu-stack/Aura__Connect#readme",
   "dependencies": {
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
